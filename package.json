@@ -1,0 +1,26 @@
+{
+  "name": "uwebsockets-nodejs",
+  "version": "0.1.0",
+  "description": "Example repo for my quickstart guide to µWebSockets.js + Node.js + Nginx ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/edisonchee/uwebsockets-nodejs.git"
+  },
+  "keywords": [
+    "uwebsockets",
+    "websockets",
+    "websocket",
+    "nginx",
+    "nodejs"
+  ],
+  "author": "Edison Chee <edisonchee@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edisonchee/uwebsockets-nodejs/issues"
+  },
+  "homepage": "https://github.com/edisonchee/uwebsockets-nodejs#readme"
+}
